@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Bishop's Orchards Farm Market",
+    "description": "Local orchard and farm market",
+    "details": "Open normal in-store business hours as well as the online ordering Mon-Sat 8am-7pm, Sun 9am-6pm.  Social Distancing practices being adhered to and monitored.",
+    "phone": "203-453-2338",
+    "website": "https://bishopsorchards.com/",
+    "goods": [
+      "Order online for pick-up",
+      "In-person shopping with social distancing"
+    ],
+    "giftcards": ["Order gift cards online"],
+    "categories": [
+      {
+        "type": "Grocery",
+        "emoji": "🍎"
+      }
+    ]
+  },
+  {
+    "name": "Chapter One",
+    "description": "New American food",
+    "details": "",
+    "phone": "203-533-7988",
+    "website": "https://www.chapter-one.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": ["Order gift cards online"],
+    "categories": [
+      {
+        "type": "Restaraunt",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Bufalina",
+    "description": "Wood fired pizza",
+    "details": "",
+    "phone": "203-458-1377",
+    "website": "https://www.bufalinact.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "South Lane Bistro",
+    "description": "Casual fine food",
+    "details": "Takeout orders between 4:00 to 8:00pm daily. Takeout and curbside pickup available.",
+    "phone": "203-533-5845",
+    "website": "https://www.southlanebistro.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Amarone",
+    "description": "Italian food",
+    "details": "Daily family meal special beginning Wednesday 3/25. Closed Mondays",
+    "phone": "203-533-7377",
+    "website": "https://amaronect.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Lis-a-Lis Salon",
+    "description": "Hair Salon",
+    "details": "Shipping and pick-up for retail items. Curb side pick up 10am-12pm Tues, Weds, & Fri",
+    "phone": "203-689-5967",
+    "website": "https://www.lisalisasalon.com/",
+    "goods": ["Order by phone for pick-up", "Order by phone for delivery"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Beauty",
+        "emoji": "💅"
+      }
+    ]
+  },
+  {
+    "name": "KC's Pub",
+    "description": "Restaurant and party platters",
+    "details": "Offering gift cards online. They are redeemable at KCs Pub. 20% off with promo code GiftCard20",
+    "phone": "203-453-0771",
+    "website": "https://www.kcspartyplatters.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": ["Order gift cards online"],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      },
+      {
+        "type": "Prepared Meals",
+        "emoji": "🥘"
+      }
+    ]
+  },
+  {
+    "name": "A Better You At Skinsations",
+    "description": "Med/day spa located in downtown Guilford",
+    "details": "",
+    "phone": "203-453-0368",
+    "website": "https://www.abetteryouatskinsations.com/",
+    "goods": ["Cannot purchase remotely"],
+    "giftcards": ["Order gift cards online", "Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Beauty",
+        "emoji": "💅"
+      }
+    ]
+  },
+  {
+    "name": "Java Hut",
+    "description": "Guilford cafe",
+    "details": "Additional 25% added to gift cards",
+    "phone": "203-689-5060",
+    "website": "https://www.toasttab.com/javahut/giftcards",
+    "goods": ["Cannot purchase remotely"],
+    "giftcards": ["Order gift cards online"],
+    "categories": [
+      {
+        "type": "Cafe",
+        "emoji": "☕"
+      }
+    ]
+  },
+  {
+    "name": "Mix Design Store",
+    "description": "The best gift shop on the shoreline",
+    "details": "Additional 25% added to gift cards",
+    "phone": "203-453-0202",
+    "website": "https://mixdesignstore.com/",
+    "goods": [
+      "Order online for pick-up",
+      "Order by phone for pick-up",
+      "Order online for delivery",
+      "Order by phone for delivery"
+    ],
+    "giftcards": ["Order gift cards online", "Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "Cilantro Coffee",
+    "description": "Guilford cafe",
+    "details": "Cilantro is open for grocery, gift card, as well as take out",
+    "phone": "203-458-2555",
+    "website": "https://www.cilantro.coffee/",
+    "goods": [
+      "Order online for pick-up",
+      "Order by phone for pick-up",
+      "Order online for delivery",
+      "Order by phone for delivery"
+    ],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Cafe",
+        "emoji": "☕"
+      }
+    ]
+  }
+]
