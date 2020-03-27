@@ -854,5 +854,62 @@
         "emoji": "👓"
       }
     ]
+  },
+  {
+    "name": "Vera Wolf Jewelry",
+    "description": "We specialize in sterling silver jewelry designed by local Guilford Resident, Wolf Guibbory. In addition, we offer several lines of jewelry from other USA and worldwide designers at affordable prices.",
+    "details": "Email: contact@Verawolf.com",
+    "phone": "203-458-1133",
+    "website": "https://www.verawolf.com/",
+    "goods": [
+      "Order online or by phone for pick-up",
+      "Order online or by phone for delivery",
+      "Order by email"
+    ],
+    "giftcards": ["Order by phone"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "Shanti Community Yoga & Healing",
+    "description": "Yoga Studio based in Guilford. Offering Hatha, Yin, Gentle, and Meditation. All classes instructed by Allyson Anatra: world-traveling yogi and writer.",
+    "details": "Email: contact@Verawolf.com",
+    "phone": "203-376-4444",
+    "website": "app.namastream.com/shanticommunity",
+    "goods": ["Take Yoga & Meditation Classes Online"],
+    "giftcards": ["Order online"],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "🧘‍♀️"
+      }
+    ]
+  },
+  {
+    "name": "The Marketplace at Guilford Food Center",
+    "description": "Butcher shop , delicatessen, events & catering, bakery, prepared foods, Juice & smoothie bar, wine and beer, coffee.",
+    "details": "",
+    "phone": "203-453-4849",
+    "website": "themarketplaceatgfc.com",
+    "goods": ["Call for takeout and curbside", "Call for delivery"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      },
+      {
+        "type": "Prepared Meals",
+        "emoji": "🥘"
+      },
+      {
+        "type": "Grocery",
+        "emoji": "🍎"
+      }
+    ]
   }
 ]
