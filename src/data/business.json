@@ -424,7 +424,7 @@
     ]
   },
   {
-    "name": "Rocco's Off Wooster",
+    "name": "Nurtured Learners",
     "description": "Tutoring, Educational Advocating (K-6)",
     "details": "",
     "phone": "203-214-1100",
@@ -433,8 +433,8 @@
     "giftcards": ["Order gift cards by phone"],
     "categories": [
       {
-        "type": "Restaurant",
-        "emoji": "🍽️"
+        "type": "Other",
+        "emoji": "✏️"
       }
     ]
   },
