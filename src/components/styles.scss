@@ -8,6 +8,11 @@
   grid-gap: 0.75em;
 }
 
+.card-content {
+  display: block;
+  min-height: 300px;
+}
+
 .card {
   height: max-content;
 }

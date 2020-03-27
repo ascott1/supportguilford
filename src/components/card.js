@@ -39,7 +39,7 @@ const Card = ({ data }) => {
           {/* <span className="tag">{🛍️Shop}</span> */}
           {data.categories.map((tag, index) => {
             return (
-              <span key="index" className="tag is-success">
+              <span key={index} className="tag is-success">
                 <span role="img" aria-label="{tag.type}">
                   {tag.emoji}
                 </span>

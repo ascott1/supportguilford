@@ -27,7 +27,7 @@
     "giftcards": ["Order gift cards online"],
     "categories": [
       {
-        "type": "Restaraunt",
+        "type": "Restaurant",
         "emoji": "🍽️"
       }
     ]
@@ -178,6 +178,70 @@
       {
         "type": "Cafe",
         "emoji": "☕"
+      }
+    ]
+  },
+  {
+    "name": "Palumbo's Automotive",
+    "description": "Auto repair and service",
+    "details": "Open with pick up and delivery of vehicles",
+    "phone": "203-453-1788",
+    "website": "http://palumbosautomotive.com/",
+    "goods": [" Call for pick up and delivery of vehicles"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Auto",
+        "emoji": "🚘"
+      }
+    ]
+  },
+  {
+    "name": "Jersey Mike's",
+    "description": "Locally owned chain sandwich shop franchise",
+    "details": "Website or  mobile app for online orders. Call for curbside pick up",
+    "phone": "203-533-6474",
+    "website": "https://www.jerseymikes.com/",
+    "goods": ["Order online pick-up", "Order by phone for pick-up"],
+    "giftcards": ["Order gift cards online"],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Centro Pizza",
+    "description": "Pizza and Italian food",
+    "details": "",
+    "phone": "203-453-7481",
+    "website": "http://centropizzaofguilford.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Page Hardware & Appliance Co.",
+    "description": "Selling cleaning supplies, home repair, paint, appliances",
+    "details": "Website or  mobile app for online orders. Call for curbside pick up",
+    "phone": "203-453-5267",
+    "website": "https://www.pagehardware.com",
+    "goods": [
+      "Order online or by phone for pick-up & delivery",
+      "Order phone for pick-up & delivery",
+      "In-person shopping with social distancing"
+    ],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
       }
     ]
   }

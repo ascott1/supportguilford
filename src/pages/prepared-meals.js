@@ -6,20 +6,25 @@ import SEO from "../components/seo"
 import Card from "../components/card"
 import Tags from "../components/tags"
 
-const IndexPage = () => {
+const PreparedMeals = () => {
   const data = useStaticQuery(graphql`
-    query Businesses {
-      allBusinessJson(sort: { order: ASC, fields: name }) {
+    query prepared {
+      allBusinessJson(
+        sort: { order: ASC, fields: name }
+        filter: {
+          categories: { elemMatch: { type: { eq: "Prepared Meals" } } }
+        }
+      ) {
         edges {
           node {
-            id
+            website
+            phone
             name
-            description
-            details
+            id
             goods
             giftcards
-            phone
-            website
+            details
+            description
             categories {
               emoji
               type
@@ -32,7 +37,7 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="Prepared Meals" />
       <section className="section">
         <Tags />
         <div className="container">
@@ -45,4 +50,4 @@ const IndexPage = () => {
   )
 }
 
-export default IndexPage
+export default PreparedMeals
