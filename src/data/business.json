@@ -772,5 +772,87 @@
         "emoji": "💅"
       }
     ]
+  },
+  {
+    "name": "Love Pet Sitting",
+    "description": "In-Your-Home full service pet sitter. Sits for every species of pets 4 legs and less.",
+    "details": "",
+    "phone": "203-506-1243",
+    "website": "http://www.lovepetsittingct.com/",
+    "goods": [],
+    "giftcards": ["Order gift cards online", "Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "🐶"
+      }
+    ]
+  },
+  {
+    "name": "Guilford Art Center",
+    "description": "School, shop and art gallery",
+    "details": "Purchase gift cards to use for our school or shop once we re-open. They can be purchased for any amount and they never expire.",
+    "phone": "203-453-5947",
+    "website": "https://guilfordartcenter.org/about-the-shop/gift-certificates/",
+    "goods": [],
+    "giftcards": ["Order gift cards online"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      },
+      {
+        "type": "Other",
+        "emoji": "🎨"
+      }
+    ]
+  },
+  {
+    "name": "Guilford Texaco",
+    "description": "Auto repair",
+    "details": "",
+    "phone": "203-453-4961",
+    "website": "",
+    "goods": [],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Auto",
+        "emoji": "🚘"
+      }
+    ]
+  },
+  {
+    "name": "Piano by Susan",
+    "description": "Popular shoreline piano teacher, now offering virtual lessons! A great addition to life at home!",
+    "details": "",
+    "phone": "203-988-7864",
+    "website": "",
+    "goods": ["Pay remotely for virtual lessons"],
+    "giftcards": ["Buy gift cards via Venmo"],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "🎹"
+      }
+    ]
+  },
+  {
+    "name": "The Optical Shop@Shoreline Eye",
+    "description": "Eyeglasses and Contact Lens sales and service",
+    "details": "Order by email at info@shorelineeye.com ",
+    "phone": "203-453-8700",
+    "website": "",
+    "goods": [
+      "Order by phone for pick-up or delivery",
+      "Order by email for pick-up or delivery"
+    ],
+    "giftcards": ["Order by phone", "Order by email"],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "👓"
+      }
+    ]
   }
 ]
