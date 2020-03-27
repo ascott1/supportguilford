@@ -40,7 +40,22 @@ const Layout = ({ children }) => {
                 💚
               </span>{" "}
               by <a href="mailto:hello@adamdscott.com">Adam Scott</a> in
-              Guilford, CT
+              Guilford, CT.{" "}
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSczJTucc8bP9SlxUwkV2aArWCI3onBUuEiZgGzQaQfzHjyYBQ/viewform?usp=sf_link">
+                Submit a business
+              </a>{" "}
+              or{" "}
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJfT7yRTCVfI2GoYXwWD6yz0d8ZmFzRJz5hKh7TT6Y3BH-1g/viewform?usp=sf_link">
+                submit a correction
+              </a>
+              .
+            </p>
+            <p>
+              For a list of area businesses offering gift cards, check out{" "}
+              <a href="https://www.thegiftcardproject.com/">
+                The Gift Card Project
+              </a>
+              .
             </p>
           </div>
         </footer>

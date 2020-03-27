@@ -289,5 +289,391 @@
         "emoji": "🛍️"
       }
     ]
+  },
+  {
+    "name": "Ballou's Restaurant & Wine Bar ",
+    "description": "Wine bar located on the green",
+    "details": "",
+    "phone": "203-453-0319",
+    "website": "http://www.ballouswinebar.com/",
+    "goods": [],
+    "giftcards": ["Order gift cards online"],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "🍷"
+      }
+    ]
+  },
+  {
+    "name": "Grand Apizza",
+    "description": "Pizza shop with locations in Guilford, Madison, & Clinton",
+    "details": "",
+    "phone": "203-533-7255",
+    "website": "https://www.grandapizza.com/",
+    "goods": ["Order by phone for pick-up or delivery"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "What's Cookin'",
+    "description": "Deli and frozen prepared meals",
+    "details": "",
+    "phone": "203-245-1771",
+    "website": "https://www.whatscookingayle.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      },
+      {
+        "type": "Prepared Meals",
+        "emoji": "🥘"
+      }
+    ]
+  },
+  {
+    "name": "La Cucina",
+    "description": "Healthy prepared meals",
+    "details": "Free local delivery with an order of $25 or more",
+    "phone": "203-689-5692",
+    "website": "https://www.lacucinacatering.com/",
+    "goods": [
+      "Order online or by phone for pick-up",
+      "Order online or by phone for delivery"
+    ],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Prepared Meals",
+        "emoji": "🥘"
+      }
+    ]
+  },
+  {
+    "name": "A Hair of the Dog",
+    "description": "Dog grooming",
+    "details": "",
+    "phone": "203-458-7946",
+    "website": "https://ahairofthedog.org/",
+    "goods": [],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "🐶"
+      }
+    ]
+  },
+  {
+    "name": "Just Hatched",
+    "description": "Unique clothing and gifts for baby and kids, newborn-8 years.",
+    "details": "",
+    "phone": "203-453-5100",
+    "website": "https://www.justhatched.com/",
+    "goods": [
+      "Order online or by phone for pick-up",
+      "Order online or by phone for delivery"
+    ],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "Quattro's",
+    "description": "Northern Italian cuisine",
+    "details": "",
+    "phone": "203-453-6575",
+    "website": "https://www.quattrositalian.com/",
+    "goods": [
+      "Order online or by phone for pick-up",
+      "Order online or by phone for delivery"
+    ],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Rocco's Off Wooster",
+    "description": "Family Owned Italian Pizza, Pasta, Delivery.",
+    "details": "Contactless Delivery/Curbside Pickup",
+    "phone": "203-533-5032",
+    "website": "https://www.roccosoffwooster.com/",
+    "goods": ["Order by phone for pick-up", "Order by phone for delivery"],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Rocco's Off Wooster",
+    "description": "Tutoring, Educational Advocating (K-6)",
+    "details": "",
+    "phone": "203-214-1100",
+    "website": "www.nurturedlearners.com",
+    "goods": [],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Three Girls Vegan",
+    "description": "Vegan 'dairy' products and food",
+    "details": "Order online for shipping of vegan dairy alternatives and prepared foods shipped to home. Orders ship Monday, Tuesday, and Wednesday.",
+    "phone": "",
+    "website": "http://threegirlsvegan.com",
+    "goods": ["Order online for delivery"],
+    "giftcards": ["Order gift cards online"],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Mindful Goods",
+    "description": "Carefully crafted goods that nourish the mind & body",
+    "details": "",
+    "phone": "",
+    "website": "https://mindfulgoods.net/",
+    "goods": ["Order online for delivery"],
+    "giftcards": ["Order gift cards online"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "LivKind",
+    "description": "CBD Wellness Products",
+    "details": "",
+    "phone": "",
+    "website": "https://www.livkind.net/",
+    "goods": ["Order online for delivery"],
+    "giftcards": ["Order gift cards online"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "Maritime Grille",
+    "description": "Classic New England Fair and the best ribs and chops!",
+    "details": "Use GrubHub, DoorDash or UberEats for Delivery",
+    "phone": "203-453-0447",
+    "website": "https://www.maritimegrille.net/",
+    "goods": ["Order by phone for pick-up", "Order by phone for delivery"],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Subway",
+    "description": "Locally owned chain sandwich shop franchise",
+    "details": "",
+    "phone": "203-453-4023",
+    "website": "https://www.subway.com/en-us",
+    "goods": ["Order by phone for pick-up", "Order online for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Kamana",
+    "description": "Indian restaurant",
+    "details": "Closed on Tuesdays",
+    "phone": "203-689-5287",
+    "website": "https://kamanaindiancuisine.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Evergreen Fine Crafts",
+    "description": "A large selection of craft made in America. A wonderful Selection of accessories including pocketbooks hats jewelry scarves and socks.",
+    "details": "Merchandise photos/videos posted to Facebook. Will bring purchases to your car.",
+    "phone": "203-453-4324",
+    "website": "www.evergreenfinecrafts.com",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "Breakwater Books",
+    "description": "Local independent bookstore",
+    "details": "Taking orders over the phone or by email offering curbside pick up and some local deliveries. 203-453-4141, breakwaterbks@gmail.com.",
+    "phone": "203-453-4141",
+    "website": "http://breakwaterbooks.net/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "Carpanzano's Pizza",
+    "description": "Pizza shop",
+    "details": "",
+    "phone": "203-453-7040",
+    "website": "http://www.carpanzanos.com/",
+    "goods": ["Order by phone for pick-up", "Order by phone for delivery"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Center for NeuroPotential",
+    "description": "Guilford resident run counseling services with phone sessions",
+    "details": "",
+    "phone": "475-221-8142",
+    "website": "https://centerforneuropotential.com/",
+    "goods": ["Telehealth Counseling Sessions"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Rock Paper Sistas'",
+    "description": "A coastal shop with heART",
+    "details": "Will meet you outside, deliver or ship",
+    "phone": "203-458-ROCK",
+    "website": "https://www.rockpapersistas.com/",
+    "goods": [
+      "Order online or by phone for pick-up",
+      "Order online or by phone for delivery"
+    ],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "BSK Design",
+    "description": "Dichroic glass jewelry, fuse glass plates and platters, abstract modern paintings",
+    "details": "",
+    "phone": "203-314-3250",
+    "website": "http://bskdesign.net/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "Cohen's Bagel Company",
+    "description": "Bagel and sandwich shop",
+    "details": "",
+    "phone": "203-318-5090",
+    "website": "https://www.toasttab.com/cohens-bagel-company/v3",
+    "goods": [
+      "Order online or by phone for pick-up",
+      "Order online or by phone for delivery"
+    ],
+    "giftcards": ["Order gift cards by phone", "Order gift cards online"],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      },
+      {
+        "type": "Cafe",
+        "emoji": "☕"
+      }
+    ]
+  },
+  {
+    "name": "Vietnoms Café",
+    "description": "Vietnamese Cuisine",
+    "details": "",
+    "phone": "203-689-5299",
+    "website": "https://www.vietnomscafe.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "J. Gresham Design",
+    "description": "Vietnamese Cuisine",
+    "details": "",
+    "phone": "203-738-9501",
+    "website": "https://www.jgreshamdesign.com/",
+    "goods": [
+      "Order by phone for pick-up and delivery",
+      "Order jewelry online"
+    ],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
   }
 ]
