@@ -6,12 +6,12 @@ import SEO from "../components/seo"
 import Card from "../components/card"
 import Tags from "../components/tags"
 
-const Cafe = () => {
+const Other = () => {
   const data = useStaticQuery(graphql`
-    query cafes {
+    query others {
       allBusinessJson(
         sort: { order: ASC, fields: name }
-        filter: { categories: { elemMatch: { type: { eq: "Cafe" } } } }
+        filter: { categories: { elemMatch: { type: { eq: "Other" } } } }
       ) {
         edges {
           node {
@@ -48,4 +48,4 @@ const Cafe = () => {
   )
 }
 
-export default Cafe
+export default Other

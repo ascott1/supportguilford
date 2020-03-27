@@ -229,14 +229,59 @@
   {
     "name": "Page Hardware & Appliance Co.",
     "description": "Selling cleaning supplies, home repair, paint, appliances",
-    "details": "Website or  mobile app for online orders. Call for curbside pick up",
+    "details": "",
     "phone": "203-453-5267",
     "website": "https://www.pagehardware.com",
     "goods": [
       "Order online or by phone for pick-up & delivery",
-      "Order phone for pick-up & delivery",
+      "Order by phone for pick-up & delivery",
       "In-person shopping with social distancing"
     ],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "Ciao Bella",
+    "description": "Clothing, Accessories & Gifts",
+    "details": "",
+    "phone": "203-800-1428",
+    "website": "https://facebook.com/shopciaobellamadison",
+    "goods": ["Order online for delivery", "Order by phone for delivery"],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "Madison Tutoring, LLC",
+    "description": "K-12 Tutoring Services by Certified Teachers",
+    "details": "Online Tutoring with Whiteboard, Audio, Video, Shared Docs",
+    "phone": "203-779-5650",
+    "website": "https://www.madisontutoring.com/",
+    "goods": ["Online Tutoring"],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "✏️"
+      }
+    ]
+  },
+  {
+    "name": "ONYX",
+    "description": "Woman’s fashion, jewelry & accessories",
+    "details": "",
+    "phone": "203-815-7662",
+    "website": "https://www.onyxofguilford.com/",
+    "goods": ["Order by phone for pick-up", "Order by phone for delivery"],
     "giftcards": ["Order gift cards by phone"],
     "categories": [
       {
