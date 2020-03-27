@@ -32,7 +32,7 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="Support Guilford Business" />
       <section className="section">
         <Tags />
         <div className="container">
