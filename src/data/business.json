@@ -660,5 +660,117 @@
         "emoji": "🛍️"
       }
     ]
+  },
+  {
+    "name": "David M. Meyers, LCSW",
+    "description": "Child /Adolescent and Family Therapy",
+    "details": "",
+    "phone": "203-260-0647",
+    "website": "http://davidmeyerslcsw.com/",
+    "goods": ["Offering 'Tele-therapy'"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "🤗"
+      }
+    ]
+  },
+  {
+    "name": "The Little Store",
+    "description": "Deli, pizza",
+    "details": "",
+    "phone": "203-457-0009",
+    "website": "http://davidmeyerslcsw.com/",
+    "goods": ["Order by phone for pick-up", "Walk-ins allowed"],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🥘"
+      }
+    ]
+  },
+  {
+    "name": "PaperScape Artworks",
+    "description": "Handmade paper studio creating artwork, frameable notecards, journals, booklets.",
+    "details": "",
+    "phone": "203-494-9689",
+    "website": "http://paperscapeartworks.com/",
+    "goods": [
+      "Order online or by phone for pick-up",
+      "Order online by phone for delivery"
+    ],
+    "giftcards": ["Gift certificates available"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "The Bird Nest Gallery & Salon Suites",
+    "description": "ART Centers/Gallery",
+    "details": "",
+    "phone": "203-689-5745",
+    "website": "https://thebirdnestgallery.com/",
+    "goods": ["Order online by phone for delivery"],
+    "giftcards": ["Order gift cards online or by phone"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      },
+      {
+        "type": "Beauty",
+        "emoji": "💅"
+      }
+    ]
+  },
+  {
+    "name": "AttaBoy Pet",
+    "description": "Walking, Sitting, Event & Errand Services",
+    "details": "In home pet sitting/travel, pet walking, drop-ins, errands/pets or humans, and can now have your pet attend special events ",
+    "phone": "203-641-4834",
+    "website": "https://www.attaboypets.com/",
+    "goods": [],
+    "giftcards": ["Purchase through PayPal, Venmo and Rover"],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "🐶"
+      }
+    ]
+  },
+  {
+    "name": "Beanwick",
+    "description": "Hand-poured soy candles",
+    "details": "",
+    "phone": "203-980-8941",
+    "website": "https://beanwick.com/",
+    "goods": ["Order online for delivery", "Order online for pick-up"],
+    "giftcards": ["Order gift cards online"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "Cascio & Company",
+    "description": "Hairdresser",
+    "details": "",
+    "phone": "203-458-7222",
+    "website": "",
+    "goods": [],
+    "giftcards": ["For gift cards search CascioandCompany-LLC on Venmo"],
+    "categories": [
+      {
+        "type": "Beauty",
+        "emoji": "💅"
+      }
+    ]
   }
 ]
