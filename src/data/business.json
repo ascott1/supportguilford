@@ -514,21 +514,6 @@
     ]
   },
   {
-    "name": "Kamana",
-    "description": "Indian restaurant",
-    "details": "Closed on Tuesdays",
-    "phone": "203-689-5287",
-    "website": "https://kamanaindiancuisine.com/",
-    "goods": ["Order by phone for pick-up"],
-    "giftcards": [],
-    "categories": [
-      {
-        "type": "Restaurant",
-        "emoji": "🍽️"
-      }
-    ]
-  },
-  {
     "name": "Evergreen Fine Crafts",
     "description": "A large selection of craft made in America. A wonderful Selection of accessories including pocketbooks hats jewelry scarves and socks.",
     "details": "Merchandise photos/videos posted to Facebook. Will bring purchases to your car.",
