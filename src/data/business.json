@@ -974,5 +974,20 @@
         "emoji": "🐶"
       }
     ]
+  },
+  {
+    "name": "JMM Health & Wellness",
+    "description": "Personal weight loss consultations",
+    "details": "Insurance accepted",
+    "phone": "203-533-7137",
+    "website": "http://jmmwellness.com/",
+    "goods": ["Phone consultations"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "🥕"
+      }
+    ]
   }
 ]
