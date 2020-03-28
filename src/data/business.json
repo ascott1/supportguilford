@@ -911,5 +911,20 @@
         "emoji": "🍎"
       }
     ]
+  },
+  {
+    "name": "Cinderella’s Attic ",
+    "description": "Offering a thoughtfully curated selection of seasonal consignment clothing for women, children and men.",
+    "details": "",
+    "phone": "203-458-2211",
+    "website": "https://cinderellasatticct.com/",
+    "goods": [],
+    "giftcards": ["Order by phone", "Order via Facebook"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
   }
 ]
