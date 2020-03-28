@@ -681,13 +681,46 @@
     "description": "Deli, pizza",
     "details": "",
     "phone": "203-457-0009",
-    "website": "http://davidmeyerslcsw.com/",
+    "website": "",
     "goods": ["Order by phone for pick-up", "Walk-ins allowed"],
     "giftcards": ["Order gift cards by phone"],
     "categories": [
       {
         "type": "Restaurant",
         "emoji": "🥘"
+      }
+    ]
+  },
+  {
+    "name": "Kiernan Photography",
+    "description": "Family, children and business portraits",
+    "details": "email: kiernanphoto@gmail.com",
+    "phone": "203-676-4462",
+    "website": "http://www.kiernanphotography.com/",
+    "goods": ["Emailed gift certificates"],
+    "giftcards": ["Order gift cards by phone", "Order gift cards by email"],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "📷"
+      }
+    ]
+  },
+  {
+    "name": "Abigail Scott Photography",
+    "description": "Weddings, engagements, family, child, and real estate photography",
+    "details": "$50 off a future session with gift card purchase",
+    "phone": "203-376-6821",
+    "website": "http://www.abigailscott.com/",
+    "goods": [],
+    "giftcards": [
+      "Order gift cards by phone",
+      "Order gift cards by email or Facebook"
+    ],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "📷"
       }
     ]
   },
