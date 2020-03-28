@@ -926,5 +926,20 @@
         "emoji": "🛍️"
       }
     ]
+  },
+  {
+    "name": "The Dog Sitter, LLC",
+    "description": "Dog Walking & Pet Sitting",
+    "details": "",
+    "phone": "203-500-2632",
+    "website": "https://www.thedogsitterct.com/",
+    "goods": ["Call or text for services needed"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "🐶"
+      }
+    ]
   }
 ]
