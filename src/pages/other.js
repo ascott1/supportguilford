@@ -35,7 +35,7 @@ const Other = () => {
 
   return (
     <Layout>
-      <SEO title="Cafes" />
+      <SEO title="Other" />
       <section className="section">
         <Tags />
         <div className="container">
