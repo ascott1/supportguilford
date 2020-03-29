@@ -1022,5 +1022,50 @@
         "emoji": "💅"
       }
     ]
+  },
+  {
+    "name": "Naples Pizza",
+    "description": "Pizza and Italian food",
+    "details": "Curbside pick-up available",
+    "phone": "203-453-4759",
+    "website": "http://naplesrestaurantguilford.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "iThai",
+    "description": "Taiwanese cuisine",
+    "details": "",
+    "phone": "203-533-5060",
+    "website": "http://www.ithaiguilford.com/",
+    "goods": ["Order by phone for pick-up", "Order online for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Pasta Avest",
+    "description": "Pizza and Italian food",
+    "details": "Curbside pick-up available",
+    "phone": "203-453-8779",
+    "website": "http://www.pastaavest.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
   }
 ]
