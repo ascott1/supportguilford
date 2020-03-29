@@ -989,5 +989,38 @@
         "emoji": "🥕"
       }
     ]
+  },
+  {
+    "name": "Anthony's of Guilford",
+    "description": "Fine Italian cuisine",
+    "details": "",
+    "phone": "203-533-4259",
+    "website": "https://www.anthonysofguilford.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "name": "Salon Zena",
+    "description": "Hair color, cutting, highlighting, balayage, hair products, gift cards",
+    "details": "",
+    "phone": "203-533-7288",
+    "website": "http://www.salonzena.com/",
+    "goods": [
+      "Order by phone or email for pick-up",
+      "Order by phone or email for delivery"
+    ],
+    "giftcards": ["Order by phone", "Order by email"],
+    "categories": [
+      {
+        "type": "Beauty",
+        "emoji": "💅"
+      }
+    ]
   }
 ]
