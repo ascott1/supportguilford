@@ -19,11 +19,11 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `support-guilford-business`,
-        short_name: `supportguilford`,
+        short_name: `Guilford`,
         start_url: `/`,
         background_color: `#48c774`,
         theme_color: `#48c774`,
-        display: `minimal-ui`,
+        display: `standalone`,
         icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
     },
