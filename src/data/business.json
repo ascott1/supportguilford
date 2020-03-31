@@ -1067,5 +1067,68 @@
         "emoji": "🍽️"
       }
     ]
+  },
+  {
+    "name": "Jerry's Transmission Service",
+    "description": "Full service automotive repair shop",
+    "details": "",
+    "phone": "203-453-5177",
+    "website": "http://jerrystransmissionct.com/",
+    "goods": ["Order by phone for pick-up"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Auto",
+        "emoji": "🚘"
+      }
+    ]
+  },
+  {
+    "name": "Ella, where she shops",
+    "description": "Women’s clothing and accessories, the perfect mix of wardrobe basics and upbeat must haves",
+    "details": "info@ellawheresheshops.com",
+    "phone": "203-453-5177",
+    "website": "https://www.ellawheresheshops.com/",
+    "goods": [
+      "Order by phone for pick-up or delivery",
+      "Order by email for pick-up or delivery"
+    ],
+    "giftcards": ["Order gift cards by phone", "Order gift cards by email"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      }
+    ]
+  },
+  {
+    "name": "Snip Snaps",
+    "description": "Hair salon",
+    "details": "",
+    "phone": "203-453-1552",
+    "website": "https://snip-snaps.business.site/",
+    "goods": [],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Beauty",
+        "emoji": "💅"
+      }
+    ]
+  },
+  {
+    "name": "Orion’s Scrap metal & Electronics Hauling",
+    "description": "Offer pickup of trash, scrap metal, old electronics, and other bulky hard to dispose of items.",
+    "details": "Orionmetalewaste@gmail.com",
+    "phone": "203-376-6556",
+    "website": "https://snip-snaps.business.site/",
+    "goods": ["Order by phone", "Order by email"],
+    "giftcards": [],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "♻️"
+      }
+    ]
   }
 ]
