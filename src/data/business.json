@@ -1121,13 +1121,32 @@
     "description": "Offer pickup of trash, scrap metal, old electronics, and other bulky hard to dispose of items.",
     "details": "Orionmetalewaste@gmail.com",
     "phone": "203-376-6556",
-    "website": "https://snip-snaps.business.site/",
+    "website": "",
     "goods": ["Order by phone", "Order by email"],
     "giftcards": [],
     "categories": [
       {
         "type": "Other",
         "emoji": "♻️"
+      }
+    ]
+  },
+  {
+    "name": "Studio 317",
+    "description": "Organic Hair Salon",
+    "details": "",
+    "phone": "2034813100",
+    "website": "",
+    "goods": ["Order by phone for pick-up", "Order by text for pick-up"],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Shop",
+        "emoji": "🛍️"
+      },
+      {
+        "type": "Beauty",
+        "emoji": "💅"
       }
     ]
   }
