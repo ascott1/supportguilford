@@ -1135,7 +1135,7 @@
     "name": "Studio 317",
     "description": "Organic Hair Salon",
     "details": "",
-    "phone": "2034813100",
+    "phone": "203-481-3100",
     "website": "",
     "goods": ["Order by phone for pick-up", "Order by text for pick-up"],
     "giftcards": ["Order gift cards by phone"],
@@ -1147,6 +1147,40 @@
       {
         "type": "Beauty",
         "emoji": "💅"
+      }
+    ]
+  },
+  {
+    "name": "Nerds To Go Inc.",
+    "description": "Technology Sales and Service",
+    "details": "Open for In-store/on-site service, drop off curb-side, and tablet and smart phone screen replacements.",
+    "phone": "203-458-3200",
+    "website": "https://www.nerdstogo.com/location/guilford-ct/",
+    "goods": [
+      "Order by phone for pick-up",
+      "Order by phone for delivery",
+      "On-site service"
+    ],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Other",
+        "emoji": "💻"
+      }
+    ]
+  },
+  {
+    "name": "Ayuthai",
+    "description": "Thai food",
+    "details": "",
+    "phone": "203-453-2988",
+    "website": "https://www.ayuthaict.com/",
+    "goods": ["Order by phone for pick-up", "Order by phone for delivery"],
+    "giftcards": ["Order gift cards by phone"],
+    "categories": [
+      {
+        "type": "Restaurant",
+        "emoji": "🍽️"
       }
     ]
   }
